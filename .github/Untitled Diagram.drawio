@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T14:14:36.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="T_U0V2al3LCzQsMhxn5I" version="18.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-02T14:42:02.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="hWPFS9BN2MkcMXYmqGOg" version="18.2.0" type="github" pages="3">
   <diagram id="_NTfUv5Yo9Z9goO790Jg" name="Page-1">
     <mxGraphModel dx="2105" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhyvyUp1ZnptQm2pSzQT-63" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Dynamic Weight&amp;nbsp;&lt;br&gt;Decay&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="NhyvyUp1ZnptQm2pSzQT-63" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Channel-wise Dynamic Pruning&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="270" y="20" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NhyvyUp1ZnptQm2pSzQT-64" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;aggregation&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qZ7fHC_lMa-TW3sbufPS" name="Page-2">
-    <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="902" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LnkWyMTH2l88JcElDWhA-0" />
         <mxCell id="LnkWyMTH2l88JcElDWhA-1" parent="LnkWyMTH2l88JcElDWhA-0" />
@@ -387,7 +387,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ui9eFO1mvThLHS2sBAZ2-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Dynamic&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Weight&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;Decay&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="LnkWyMTH2l88JcElDWhA-1" vertex="1">
+        <mxCell id="ui9eFO1mvThLHS2sBAZ2-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Channel-wise Dynamic Pruning&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="LnkWyMTH2l88JcElDWhA-1" vertex="1">
           <mxGeometry x="775" y="80" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ui9eFO1mvThLHS2sBAZ2-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#FFBD59;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.9;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LnkWyMTH2l88JcElDWhA-1" edge="1">
